@@ -1,7 +1,5 @@
 package com.deploy.praktikum1.model.dto;
 
-package com.deploy.praktikum1.model.dto;
-
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;
